@@ -1,5 +1,3 @@
-/*------ Arduino Line Follower Code----- */
-/*-------definning Inputs------*/
 #define LS 2 // left sensor
 #define RS 3 // right sensor
 
